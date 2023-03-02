@@ -1,4 +1,5 @@
 {
+  "{area} m²": "{area} м²",
   "{distance} from center": "{distance} від центру",
   "{page} of {total}": "<t1>{page}</t1> з <t2>{total}</t2>",
   "About the hotel": "Про готель",
@@ -42,6 +43,7 @@
   "Children 2": "Дитини",
   "Children 5": "Дітей",
   "Children": "Діти",
+  "Choose dates to view prices": "Виберіть дати, щоб переглянути ціни",
   "Cities": "Міста",
   "City Guide": "Путівник по місту",
   "Clear": "Очистити",
@@ -193,6 +195,7 @@
   "Unrated": "Без рейтингу",
   "Update search": "Змінити критерії пошуку",
   "View all": "Переглянути всі",
+  "View deal": "Переглянути",
   "View details": "Докладніше",
   "View less": "Показати менше",
   "View on map": "Дивитися на мапі",
